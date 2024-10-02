@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="564dff0b-3cc7-4b68-9841-0b22cbfc3c6d" name="Changes" comment="Main game" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +40,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -109,7 +113,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727889037061</updated>
-      <workItem from="1727889038429" duration="346000" />
+      <workItem from="1727889038429" duration="765000" />
     </task>
     <task id="LOCAL-00001" summary="Main game">
       <option name="closed" value="true" />
@@ -119,7 +123,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727889344113</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Main game">
+      <option name="closed" value="true" />
+      <created>1727889391373</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727889391373</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
